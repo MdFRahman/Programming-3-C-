@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTemplateDemo", "DataTemplateDemo\DataTemplateDemo.csproj", "{1C5B7BB4-890E-4CD7-A94D-EDE7943DC205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5B7BB4-890E-4CD7-A94D-EDE7943DC205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5B7BB4-890E-4CD7-A94D-EDE7943DC205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5B7BB4-890E-4CD7-A94D-EDE7943DC205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5B7BB4-890E-4CD7-A94D-EDE7943DC205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E75DC631-1995-4251-8F27-CDA74AA99D58}
+	EndGlobalSection
+EndGlobal
