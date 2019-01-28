@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContextDemo", "DataContextDemo\DataContextDemo.csproj", "{EE32F7D2-21D6-44EA-ABF0-7DF3D83A64DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE32F7D2-21D6-44EA-ABF0-7DF3D83A64DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE32F7D2-21D6-44EA-ABF0-7DF3D83A64DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE32F7D2-21D6-44EA-ABF0-7DF3D83A64DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE32F7D2-21D6-44EA-ABF0-7DF3D83A64DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FED4A42-1D16-4D11-8018-3D370D082D09}
+	EndGlobalSection
+EndGlobal
